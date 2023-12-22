@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1111111",
+    "photo": "",
+    "name": "John",
+    "lastName": "Doe",
+    "dni": "47132469",
+    "email": "john@example.com",
+    "role": "ADMIN",
+    "status": true
+  },
+  {
+    "id": "2222222",
+    "photo": "",
+    "name": "Jane",
+    "lastName": "Smith",
+    "dni": "12412356",
+    "email": "jane@example.com",
+    "role": "OPERATOR",
+    "status": false
+  },
+  {
+    "id": "3333333",
+    "photo": "",
+    "name": "Mox2",
+    "lastName": "L.",
+    "dni": "47588956",
+    "email": "mox@example.com",
+    "role": "USER",
+    "status": false
+  }
+]
